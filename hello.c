@@ -8,6 +8,7 @@ typedef struct{
 }person;
 int main()
 {
+	// just checking if this makes it to the place
 	char name[50];
 	int age, height;
 	printf("Type your name\n");
